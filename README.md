@@ -6,7 +6,7 @@ BayWave is a modern music-streaming application inspired by the core functionali
 
 *Customize tracks with reverb and speed settings  
 *Follow artists through a social feed 
-*Create and manage custom playlists 
+*Create and manage custom playlists  
 
 While some advanced features were not fully implemented by the final presentation, all core functionalities were successfully developed.
 
