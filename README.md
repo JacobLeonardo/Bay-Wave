@@ -4,9 +4,9 @@ Developers: Jake Leonardo, Bailey Inman, Emerson Grier, Eli McKercher, Samarth A
 
 BayWave is a modern music-streaming application inspired by the core functionality of platforms like Spotify, with social features drawn from TikTok, Bandcamp, and SoundCloud. Our goal was to create an immersive and user-driven listening experience, where users can not only stream music but also:
 
-  *Customize tracks with reverb and speed settings
-  *Follow artists through a social feed
-  *Create and manage custom playlists
+*Customize tracks with reverb and speed settings  
+*Follow artists through a social feed 
+*Create and manage custom playlists 
 
 While some advanced features were not fully implemented by the final presentation, all core functionalities were successfully developed.
 
