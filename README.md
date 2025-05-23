@@ -1,15 +1,35 @@
-# Music Streaming Application
+🎵 BayWave – Music Streaming App
 
-Developers: Bailey Inman, Jake Leonardo, Emerson Grier, Eli McKercher, Samarth Agrawal
+Developers: Jake Leonardo, Bailey Inman, Emerson Grier, Eli McKercher, Samarth Agrawal
 
-We are currently developing a music-streaming application designed to appeal more to modern sensibilities, combining the core features of apps like Spotify with the shareability and aesthetics of apps like TikTok. We want users to feel more involved in the music creation process, whether it be by tweaking their favorite music via custom reverb + speed settings, or following along closely with their favorite artists’ recent developments through their feed. Ultimately, we are aiming for a tasteful Spotify-Bandcamp-Tiktok-Soundcloud hybrid that genuinely improves the experience of listening to music through unique and practical features.
+BayWave is a modern music-streaming application inspired by the core functionality of platforms like Spotify, with social features drawn from TikTok, Bandcamp, and SoundCloud. Our goal was to create an immersive and user-driven listening experience, where users can not only stream music but also:
 
-Every two-week sprint, a different developer acts as team lead.
+  *Customize tracks with reverb and speed settings
+  *Follow artists through a social feed
+  *Create and manage custom playlists
 
-Path to Database: MusicStreamProject/BayWave/src/main/java/com/BayWave
+While some advanced features were not fully implemented by the final presentation, all core functionalities were successfully developed.
 
-PULLING DATABASE (BayWave): In my experience attempting to open the database IntelliJ project on a new computer for the first time, it doesn't
-come with the password encoding library (io.liquer.pencil.password.encoder) due to libraries being included in gitignore. You can add this library like so: 
-File > Project Structure > Modules > BayWave > Libraries > + (left side) > From Maven > Search for "io.liquer.pencil:pencil-password-encoder:2.0.2"
-If it still doesn't work, you need to add it as a dependency:
-File > Project Structure > Modules > BayWave > Dependencies > + (right side) > Library > io.liquer.pencil.password.encoder > Add Selected
+🔧 My Role
+This was a group project, but I was solely responsible for the Android application, which was fully developed by me. The Android client includes:
+
+  *Music streaming via HTTPS
+  *Custom playlist creation
+  *Search functionality
+  *A responsive, Jetpack-based user interface
+
+Other parts of the system (such as the desktop client, database backend, server-side setup) were developed by teammates. They are included in this repository to reflect the full project scope.
+
+Android app source path:
+MusicStreamProject/BayWavesApp/app/src/main/java/edu/commonwealthu/baywaves/
+
+📁 Tech Stack
+  *Languages: Java, XML
+  *Tools: Android Studio, Jetpack, ExoPlayer, Git, Firebase (or whatever backend was used)
+  *Architecture: Client-server over HTTPS
+
+🏁 Status
+Final sprint completed May 2025. Core features implemented and stable.
+This project is shared for academic and portfolio purposes. Original work credited to respective team members.
+
+
