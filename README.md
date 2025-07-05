@@ -25,7 +25,7 @@ MusicStreamProject/BayWavesApp/app/src/main/java/edu/commonwealthu/baywaves/
 
 📁 Tech Stack      
 *Languages: Java, XML     
-*Tools: Android Studio, Jetpack, ExoPlayer, Git, Firebase    
+*Tools: Android Studio, Android Jetpack, ExoPlayer streaming, Git Version Control, Firebase    
 *Architecture: Client-server over HTTPS
 
 🏁 Status    
