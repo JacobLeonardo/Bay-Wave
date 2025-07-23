@@ -31,5 +31,3 @@ MusicStreamProject/BayWavesApp/app/src/main/java/edu/commonwealthu/baywaves/
 🏁 Status    
 Final sprint completed May 2025. Core features implemented and stable.
 This project is shared for academic and portfolio purposes. Original work credited to respective team members.
-
-
